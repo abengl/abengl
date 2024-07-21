@@ -11,7 +11,7 @@ Passionate front-end developer focused on creating relevant and efficient softwa
 - 🤝 I’m looking to collaborate on **front-end projects and innovative web applications**.
 - 🤔 I’m looking for help with **expanding my knowledge on advanced JavaScript and React**.
 - 💬 Ask me about **web development, JavaScript, and my experience working in global teams**.
-- 📫 How to reach me: **[LinkedIn]([mailto:email@gmail.com](https://www.linkedin.com/in/alessandragodoy-developer)/)**
+- 📫 How to reach me: **[LinkedIn]([mailto:email@gmail.com](https://www.linkedin.com/in/alessandragodoy-developer/)**
 - 💜 Fun fact: I enjoy carpentry and have a passion for volunteering and learning about different cultures and languages.
 
 ### 💻 Technical Skills
@@ -26,10 +26,9 @@ Passionate front-end developer focused on creating relevant and efficient softwa
 
 ### 🏆 Certifications
 
-- Oracle Certified ChatGPT Optimizing Results Quality - 2024
+- Oracle Certified ChatGPT Optimizing Results - 2024
 - IBM Data Engineering Specialization - 2024
 - IBM Full Stack Development Professional Certificate - 2023
-- EF SET English Certificate - 2021
 
 ### 📈 Work Experience
 
@@ -37,4 +36,4 @@ Passionate front-end developer focused on creating relevant and efficient softwa
 - **The Sandbox Foundation Project** | Mata Technologies (Philippines) | March 2024 - May 2024
 - **IT Customer Success Specialist** | Hostinger International (Lithuania) | September 2021 - December 2022
 
-Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/alessandra-bendi) or [GitHub](http://github.com/alessandra-bendi). Let's create something amazing together!
+Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/alessandragodoy-developer/) or [GitHub](https://github.com/abengl). Let's create something amazing together!
