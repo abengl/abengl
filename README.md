@@ -11,7 +11,7 @@ Passionate front-end developer focused on creating relevant and efficient softwa
 - 🤝 I’m looking to collaborate on **front-end projects and innovative web applications**.
 - 🤔 I’m looking for help with **expanding my knowledge on advanced JavaScript and React**.
 - 💬 Ask me about **web development, JavaScript, and my experience working in global teams**.
-- 📫 How to reach me: **[LinkedIn]([mailto:email@gmail.com](https://www.linkedin.com/in/alessandragodoy-developer/)**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/alessandragodoy-developer/)**
 - 💜 Fun fact: I enjoy carpentry and have a passion for volunteering and learning about different cultures and languages.
 
 ### 💻 Technical Skills
