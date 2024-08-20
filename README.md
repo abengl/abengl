@@ -1,4 +1,4 @@
-## 😊 Hi, I'm Alessandra Godoy
+## 😊 Hi, I'm Alessandra
 
 ### :octocat: About Me
 
@@ -46,5 +46,3 @@ Web developer with a passion for creating meaningful software. I've challenged m
 - Oracle Certified ChatGPT Optimizing Results - 2024
 - IBM Data Engineering Specialization - 2024
 - IBM Full Stack Development Professional Certificate - 2023
-
-Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/alessandragodoy-developer/) or [GitHub](https://github.com/abengl). Let's create something amazing together!
