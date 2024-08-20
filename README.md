@@ -2,7 +2,7 @@
 
 ### :octocat: About Me
 
-Passionate front-end developer focused on creating relevant and efficient software solutions. I have a Bachelor of Computer Science and strong skills in web development using JavaScript, HTML, CSS, and Git. With experience working in agile environments and global teams, I am bilingual in Spanish and English (C2 level). I enjoy transforming ideas into effective technological solutions, and in my free time, I love carpentry, volunteering, and learning about different cultures and languages.
+Web developer with a passion for creating meaningful software. I've challenged myself to master various technologies to solve problems in different contexts. I have a background in Computer Science and solid experience in web development using JavaScript, HTML, CSS, and Git. I'm comfortable working in agile environments and collaborating with global teams in both Spanish and English (C2 level). Outside of coding, I enjoy woodworking, volunteering, and exploring new cultures and languages. Always motivated to turn ideas into effective tech solutions!
 
 ### 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -26,11 +26,9 @@ Passionate front-end developer focused on creating relevant and efficient softwa
 
 ### 🌟 Highlights
 
-- 🔭 I’m currently working on **TechGenius**, a SPA that visualizes, filters, sorts, calculates metrics, and offers interaction via chat by connecting to the OpenAI API.
-- 🌱 I’m learning **OOP in Java**.
+- 🔭 I’m currently working on **API Fleet Management**, a REST API to track the locations of a taxi company's vehicles in China.
+- 🌱 I’m learning **backend in Java**.
 - 🤝 I’m looking to collaborate on **front-end projects and innovative web applications**.
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/alessandragodoy-developer/)**
-- 💜 Fun fact: I enjoy carpentry and am passionate about volunteering and learning about different cultures and languages.
 
 ### 📈 Work Experience
 
