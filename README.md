@@ -2,7 +2,7 @@
 
 ### :octocat: About Me
 
-I'm a software developer with a strong focus on back-end development, specialized in Java ☕ and Spring Boot 🍃, with a solid foundation in front-end technologies. I'm focused on transforming ideas into agile solutions, love web technologies, and constantly learning. Outside of tech, I'm passionate about carpentry, volunteering, and learning new languages.
+I'm a software developer with a strong focus on back-end development, specialized in Java ☕ and Spring Boot 🍃. I'm focused on transforming ideas into agile solutions, love web technologies, and constantly learning. Outside of tech, I'm passionate about carpentry, volunteering, and learning new languages.
 
 ### 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -21,26 +21,24 @@ I'm a software developer with a strong focus on back-end development, specialize
 
 
 ### 🌟 Highlights
-
-- 🔭 I’m currently working on **the migration of a system to Odoo ERP** for a pharmacy business.
-- 🌱 I’m preparing for the **Java OCA** and strengthening my skills in **Spring Boot** with independent projects.
+- I’m preparing for the **GitHub Foundations certification** :octocat:  and keep strengthening my skills in **Spring Boot** with independent projects.
 
 ### 📈 Work Experience
 
-- **Software Developer** | Qantufarma | January 2025 – Present
-- **Back-End Developer** | NTT Data Peru | October 2024 – January 2025
-- **Full-Stack Developer** | Laboratoria | March 2024 – October 2024
-- **The Sandbox Foundation Project** | Mata Technologies (Philippines) | March 2024 - May 2024
-- **IT Customer Success Specialist** | Hostinger International (Lithuania) | September 2021 - December 2022
+- **Software Engineer** | NTT Data Europe & LATAM (Peru) | February 2025 – Present
+- **Back-End Developer(Internship)** | NTT Data Europe & LATAM (Peru) | October 2024 – January 2025
+- **Web Developer (Internship)** | Mata Technologies (Philippines) | March 2024 - May 2024
+- **IT Technical Support Specialist** | Hostinger International (Lithuania) | September 2021 - December 2022
   
 ### 📚 Education
 
-- **Front-End Development** | Laboratoria | March 2024 - September 2024
+- **Web Development** | Laboratoria (LATAM) | March 2024 - September 2024
 - **Bachelor of Computer Science** | University of the People (USA) | September 2020 - June 2024
 
 ### 🏆 Certifications
 
-- Oracle Next Education Java Backend Developer Certificate- 2025
-- Oracle Java Programming Certificate - 2024
-- IBM Data Engineering Specialization - 2024
-- IBM Full Stack Development Professional Certificate - 2023
+- Microsoft - Azure Fundamentals - 2025
+- Oracle Next Education - Back-End Software Development with Java – 2025
+- Oracle - Java Programming – 2024
+- IBM - Data Engineering Specialization - 2024
+
